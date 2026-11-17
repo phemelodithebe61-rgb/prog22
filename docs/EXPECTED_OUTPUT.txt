@@ -1,0 +1,14 @@
+PRODUCT SALES BY QUARTER
+------------------------------------------------
+              QUARTER 1    QUARTER 2    QUARTER 3
+YEAR 1              300          150          700
+YEAR 2              250          200          600
+------------------------------------------------
+
+PRODUCT SALES REPORT - 2025
+------------------------------
+Total sales:   2200
+Average sales: 367
+Maximum sale:  700
+Minimum sale:  150
+------------------------------
